@@ -15,7 +15,7 @@ toilet -f big -F gay "KZy29"
 echo""
 echo $green "Author : MR.KZY" 
 echo $blue "Team : BLACK CYBER CRUSH"
-echo $yellow "Kontak Me :  083108271123"
+echo $yellow "Kontak Me :  0888-0984-3498"
 echo $red "support : JUNIOR GUARDIAN TEAM AND CC4"
 echo "$green============================[>"
 sleep 1
@@ -225,7 +225,7 @@ echo "[===============================================]>"
 echo $yellow "0.> keluar"
 echo "[===============================================]>"
 echo
-read -p "[root@TOOLs-KZy29:=>" kzy;
+read -p "[silahkan pilih:=>" kzy;
 
 if [ $kzy = 1 ] || [ $kzy = 1 ]
 then
