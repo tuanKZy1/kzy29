@@ -1609,13 +1609,9 @@ cd $HOME/OWASP-Nettacker
 python2 setup.py 
 fi
 
-if [ $bro = 0 ] || [ $bro = 00 ]
+if [ $slc = exit ]
 then
-echo $blue "TEAM : BLACK CYBER CRUSH
-sleep 1
-echo $white "support : JUNIOR GUARDIAN TEAM"
-sleep 1
-echo " TERIMAKASIH SUDAH MEMAKAI TOOLS KAMI ^_^"
-sleep 1
+clear
+echo -e $red"BLACK CYBER "
 exit
 fi
